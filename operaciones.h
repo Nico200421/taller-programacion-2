@@ -1,0 +1,2 @@
+float calcularPrecioRuta();
+float calcularDescuento ();
